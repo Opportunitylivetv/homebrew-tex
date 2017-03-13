@@ -2,8 +2,8 @@ class GitLatexdiff < Formula
   desc "Wrapper around git and latexdiff"
   homepage "https://gitlab.com/git-latexdiff/git-latexdiff"
   url "https://gitlab.com/git-latexdiff/git-latexdiff.git",
-    :tag => "v1.1.4",
-    :revision => "dc84273afc2e366d6c4f98a07052e651c7d297dd"
+    :tag => "v1.2.0",
+    :revision => "2bd0dcbf2a14de7c311382ed03eb24bac661ac69"
 
   depends_on :tex
   depends_on "latexdiff"
